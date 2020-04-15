@@ -1,0 +1,5 @@
+1. Crie um Objeto pessoa que receba as propriedades: nome, telefone, idade, altura e peso.
+
+2. Crie um objeto animal que receba as propriedades: porte(pequeno, médio ou grande), especie, raça.
+
+3. Crie um objeto curso que receba as propriedades: nome, período, professor(a).  
