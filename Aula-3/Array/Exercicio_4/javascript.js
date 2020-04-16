@@ -9,7 +9,7 @@ if(lista.length === 0) {
     lista.push("oi");
     console.log(lista, "dentro do primeiro if");
 } 
-if (lista.length > 0 ) {
+if (lista.length > 0) {
     console.log(lista.length, "dento do segundo if")
 }
 
