@@ -21,8 +21,18 @@ x console.log(x.propriedade);
 
 5. Faça um programa que receba 10 números, calcule e imprima a soma dos números pares e a soma dos números ímpares.
 
-6. Faça um programa que receba a idade, o peso e o sexo de 10 pessoas. Calcule e imprima:
+6. Faça um programa que receba a idade, o peso e o sexo de 10 pessoas.
+Calcule e imprima:
 total de homens;
 total de mulheres;
 média das idades dos homens;
 média dos pesos das mulheres.
+- For ate 10 => 3 prompts ( idade, peso, sexo);
+- contar qtd mulheres
+- qtd homens
+- soma antes
+- media da idade das homens (soma das idades)
+- media dos pesos das mulheres (soma dos pesos)
+
+media = soma / qtd 
+
