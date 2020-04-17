@@ -20,3 +20,12 @@ function subtrair() {
     alert('O total da subtracao é: ' + total);
 }
 
+function multiplicar(){
+    total = valor1 * valor2;
+    alert('O total da multiplicacao é: ' +total);
+}
+
+function dividir() {
+    total = valor1 / valor2;
+    alert('O total da divisao é: ' +total);
+}
