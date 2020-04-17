@@ -19,3 +19,10 @@ x console.log(x.propriedade);
 
 4. Um loop que leia (prompt) o nome de 5 pessoas.
 
+5. Faça um programa que receba 10 números, calcule e imprima a soma dos números pares e a soma dos números ímpares.
+
+6. Faça um programa que receba a idade, o peso e o sexo de 10 pessoas. Calcule e imprima:
+total de homens;
+total de mulheres;
+média das idades dos homens;
+média dos pesos das mulheres.
